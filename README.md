@@ -1,4 +1,4 @@
-# ML-Assignment1
+# ML-Project1
 Consider the attached wine dataset from the UCI machine learning repository:
 https://archive.ics.uci.edu/ml/datasets/Wine. The data are the results of a chemical analysis of
 wines grown in the same region in Italy but derived from three different cultivars. The analysis
